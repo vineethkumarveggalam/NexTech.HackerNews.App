@@ -1,5 +1,3 @@
-<img width="1877" height="947" alt="image" src="https://github.com/user-attachments/assets/3bc67b7a-8248-47b0-9f9f-a2f8c6aa97bc" /># HackerNews API and Client Application
-
 Deployed App details:
 https://nextech-hackernews-assessment-b2g6gvf6crg0bve9.centralus-01.azurewebsites.net/
 <img width="1877" height="947" alt="image" src="https://github.com/user-attachments/assets/97212c3d-c447-4840-a41d-6ada6a49014c" />
